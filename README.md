@@ -1,4 +1,5 @@
-# Human Pose Evaluator
+# AI Posture Evaluator
+![00](https://github.com/SiuPuiCheung/AI-Pose-Evaluator/assets/46885417/97189582-8f29-431e-b2aa-346123df42b4)
 
 ## Overview
 
